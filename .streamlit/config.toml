@@ -1,13 +1,13 @@
 [theme]
 base = "dark"
 # Primary accent color.
-primaryColor = "FC4E00"
+primaryColor = "#B85042"
 
 # Background color of the app.
-backgroundColor = "FDBB2F"
+backgroundColor = "#A7BEAE"
 
 # Background color used for most interactive widgets.
-secondaryBackgroundColor = "D9D9D9"
+secondaryBackgroundColor = "#E7E8D1"
 
 # Color used for almost all text.
-textColor = "FFFFFF"
+textColor = "#FFFFFF"
